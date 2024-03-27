@@ -58,7 +58,7 @@ NAME).
 
 `test_reset_page.py` - тесты страницы восстановления пароля
 
-`test_positive_auth_page.py` - позитивные тесты страницы авторизации
+`test_positive_auth.py` - позитивные тесты страницы авторизации
 
 `test_positive_registration.py` - позитивные тесты страницы регистрации
 
